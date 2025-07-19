@@ -5,3 +5,6 @@
 2. Add shift button.
 3. Detached Dit, Dah button.
 4. Add Space and Backspace.
+
+#### v1.1 - 2025.07.20.
+1. Modifying the log() function.
