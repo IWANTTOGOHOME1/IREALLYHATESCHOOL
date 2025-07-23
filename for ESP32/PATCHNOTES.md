@@ -8,3 +8,6 @@
 
 #### v1.1 - 2025.07.20.
 1. Modifying the log() function.
+
+#### v1.2 - 2025.07.23.
+1. Change the line to be displayed to 10.
