@@ -1,2 +1,2 @@
 # IREALLYHATESCHOOL
-ANYWHERE
+학교너무너무싫어요요오오오오오오오오오
